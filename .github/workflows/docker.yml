@@ -27,6 +27,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ghcr.io/yamunareddy358/yamuna-next-app:latest
+          tags: ghcr.io/yamunareddy358/nextjs-devops-assessment-yamuna-bose:latest
+
 
 
